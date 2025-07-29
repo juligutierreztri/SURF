@@ -1,6 +1,6 @@
-# SURF
+# SURF: Potential enhanced degradation of contaminants while reacting with free chlorine adsorbed 	onto media used in tap water pitcher filters
 
-# Referencias
+# References
 
 [1] Anen He, Yao Lu, Fengjie Chen, Feifei Li, Kun Lv, Huiming Cao, Yuzhen Sun, Yong Liang, Juan Li, Lixia Zhao, Xiang Zhang, Lingxiangyu Li, Yawei Wang, Guibin Jiang. *Exploring the origin of efficient adsorption of poly- and perfluoroalkyl substances in household point-of-use water purifiers: Deep insights from a joint experimental and computational study*
 Science of The Total Environment, Volume 831. 2022. ISSN 0048-9697.
