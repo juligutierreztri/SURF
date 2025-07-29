@@ -2,7 +2,7 @@
 
 # Referencias
 [1] da Silva, B. J. S. (1999) *WATER QUALITY AND TREATMENT A Handbook of Community Water Supplies* American Water Works Association.
-   [Enlace al libro](https://ejemplo-libro.com)  
+   [Enlace al libro](https://www.academia.edu/34870374/WATER_QUALITY_AND_TREATMENT_A_Handbook_of_Community_Water_Supplies_American_Water_Works_Association)  
 
 2. García, M. (2019). *Machine Learning práctico*. AI Press.  
 
